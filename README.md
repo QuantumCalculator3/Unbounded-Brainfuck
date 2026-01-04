@@ -1,2 +1,5 @@
 # Unbounded-Brainfuck
-A collection of unbounded brainfuck implementations.
+A collection of unbounded brainfuck implementations. I make these as an exercise when learning a language, as well as to prove a language turing complete.
+
+# Languages:
+C
