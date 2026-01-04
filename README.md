@@ -2,4 +2,4 @@
 A collection of unbounded brainfuck implementations. I make these as an exercise when learning a language, as well as to prove a language turing complete.
 
 # Languages:
-C | https://www.open-std.org/jtc1/sc22/wg14/ 
+C | https://www.c-language.org
